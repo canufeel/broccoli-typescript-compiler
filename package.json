@@ -38,7 +38,7 @@
     "broccoli-merge-trees": "^1.1.4",
     "broccoli-plugin": "^1.2.1",
     "findup": "^0.1.5",
-    "fs-tree-diff": "^0.5.2",
+    "fs-tree-diff": "git+https://github.com/canufeel/fs-tree-diff.git#master",
     "get-caller-file": "^1.0.1",
     "heimdalljs": "^0.3.0-alpha3",
     "json-stable-stringify": "^1.0.1",
@@ -49,7 +49,7 @@
     "typescript": ">=1.8.0"
   },
   "devDependencies": {
-    "@types/node": "^6.0.38",
+    "@types/node": "6.0.52",
     "broccoli": "^0.16.3",
     "chai": "^3.5.0",
     "ensure-posix-path": "^1.0.1",
@@ -61,7 +61,7 @@
     "rollup": "^0.36.1",
     "rollup-plugin-buble": "^0.14.0",
     "sorcery": "^0.10.0",
-    "tslint": "^3.14.0",
-    "typescript": "^2.0.0"
+    "tslint": "4.0.2",
+    "typescript": "2.1.4"
   }
 }
